@@ -1,6 +1,5 @@
-This is my remapping software using AutoHotKey
-- Onishi layout
-- Thumb shifting (control multiple layers)
+AutoHotKeyで作った、windows用のキーのリマップツールです。
+- 大西配列
+- 親指シフト（レイヤー数：3）
 <br>
-jf -> home positions are j and f <br>
-kf -> home positions are k and f
+各ファイルのハイフン以降についているアルファベット2文字はそのファイルが採用しているホームポジション。親指キーを使う都合上、形状の違うキーボードでも大丈夫なようにしている。
